@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: booking-service
+  cloud:
+    kubernetes:
+      loadbalancer:
+        mode: service
