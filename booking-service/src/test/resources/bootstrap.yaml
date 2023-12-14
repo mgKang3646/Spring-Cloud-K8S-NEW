@@ -1,0 +1,7 @@
+spring:
+  cloud:
+    compatibility-verifier.enabled: false
+    kubernetes:
+      enabled: false
+      reload.enabled: false
+      discovery.enabled: false
